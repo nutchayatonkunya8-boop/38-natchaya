@@ -6,5 +6,7 @@
 
 
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
-a = int(input())
-b = int(input())
+a = int(input(5))
+b = int(input(10))
+"A is greater"
+print=(a>b) (a<=b)
