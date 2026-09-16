@@ -6,4 +6,5 @@
 
 
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
-color = input()
+color = input("red yellow green" )
+print("Stop=red""SlOW=yelloe""go=green") ("Invalid=+กรณีอื่นๆ")
